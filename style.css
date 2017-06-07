@@ -22,7 +22,7 @@ body
 
 .hero
 {
-    height: 40em;
+    height: 100%;
     background: url(http://wallpoper.com/images/00/34/14/30/mountains-clouds_00341430.jpg) no-repeat center;
     background-size: cover;
     position: relative;
