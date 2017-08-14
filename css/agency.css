@@ -304,7 +304,7 @@ header .intro-text {
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 22px;
+    font-size: 35px;
     font-style: italic;
     line-height: 22px;
 }
@@ -327,7 +327,7 @@ header .intro-text .intro-heading {
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
         font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
-        font-size: 40px;
+        font-size: 75px;
         font-style: italic;
         line-height: 40px;
     }
@@ -367,6 +367,71 @@ section h3.section-subheading {
     }
 }
 
+.profile-img{
+    float:left;
+    clear:both;
+    margin-right: 30px;
+    max-height:400px;
+}
+
+.socialz-container {
+    margin:10px auto;
+    padding-right: 25px;
+    text-align: center;
+}
+
+.social-icons {
+    padding: 0;
+    list-style: none;
+    margin: 1em;
+  }
+
+  .socialz-icons li {
+    display: inline-block;
+    margin: 0.25em;
+    position: relative;
+    font-size: 1.2em;
+  }
+  .socialz-icons i {
+    color: #fff;
+    position: absolute;
+    top: 21px;
+    left: 23px;
+    transition: all 265ms ease-out;
+  }
+  .socialz-icons a {
+    display: inline-block;
+  }
+  .socialz-icons a:before {
+    transform: scale(1);
+    -ms-transform: scale(1);
+    -webkit-transform: scale(1);
+    content: " ";
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    display: block;
+    background: linear-gradient(45deg, #505050, #1F1F1F);
+    transition: all 265ms ease-out;
+  }
+  .socialz-icons a:hover:before {
+    transform: scale(0);
+    transition: all 265ms ease-in;
+  }
+  .socialz-icons a:hover i {
+    transform: scale(2.2);
+    -ms-transform: scale(2.2);
+    -webkit-transform: scale(2.2);
+    color: #202020;
+    background: -webkit-linear-gradient(45deg, #505050, #1F1F1F);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 265ms ease-in;
+  }
+
+.about-para{
+    margin-top:10px;
+}
 .service-heading {
     margin: 15px 0;
     text-transform: none;
@@ -449,6 +514,17 @@ section h3.section-subheading {
     }
 }
 
+@media(max-width:673px){
+    .profile-img{
+        display: block;
+        margin: 0 auto;
+        float:none;
+    }
+
+    .about-para{
+        margin: 10px;
+    }
+}
 .timeline {
     position: relative;
     padding: 0;
