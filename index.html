@@ -68,7 +68,7 @@
 		</section>
 		<!-- END SECTION: About -->
 		<!-- SECTION: App Design -->
-		<section class="app-design">
+		<section id="work" class="app-design">
 			<div class="app-design__wrapper wrapper--large">
 				<div class="app-design__content blurb">
 					<h2 class="blurb__heading">Concurrent <br>Development <br>on Workday Extend</h2>
@@ -80,6 +80,7 @@
 		</section>
 		<!-- END SECTION: App Design -->
 		<!-- SECTION: Web Design -->
+		<!---
 		<section class="web-design">
 			<div class="web-design__wrapper wrapper--small">
 				<div class="web-design__content blurb">
@@ -90,8 +91,10 @@
 			</div>
 			<figure class="web-design__visual"></figure>
 		</section>
+		--->
 		<!-- END SECTION: Web Design -->
 		<!-- SECTION: Work -->
+		<!---
 		<section id="work" class="work">
 			<h2 class="work__heading title">Latest Projects</h2>
 			<div class="work__wrapper wrapper--large">
@@ -140,8 +143,10 @@
 				</ul>
 			</div>
 		</section>
+		--->
 		<!-- END SECTION: Work -->
 		<!-- SECTION: Blog -->
+		<!----
 		<section id="blog" class="blog">
 			<h2 class="blog__heading title">Blog Posts</h2>
 			<div class="blog__wrapper wrapper--large">
@@ -180,19 +185,20 @@
 				<a class="button blog__view-more--el" href="#0">View More</a>
 			</div>
 		</section>
+		--->
 		<!-- END SECTION: Blog -->
 		<!-- SECTION: Contact -->
 		<section id="contact" class="contact">
 			<h2 class="contact__heading title">Contact Me</h2>
 			<div class="contact__wrapper wrapper--large">
 				<div class="contact__visual">
-					<img src="assets/img/contact-visual.png" alt="James Martin's location">
+					<img src="assets/img/contact-visual.png" alt="Calvin's location">
 				</div>
 				<!-- Simple form setup: formspree.io -->
-				<form class="contact__form">
-					<input class="contact__form-el contact__form-el--name" type="text" placeholder="Your Name" spellcheck="false">
-					<input class="contact__form-el contact__form-el--email" type="email" placeholder="Your Email" spellcheck="false">
-					<textarea class="contact__form-el contact__form-el--message" placeholder="Your Message"></textarea>
+				<form class="contact__form" action="https://formspree.io/f/xlekvpbg" method="POST">
+					<input class="contact__form-el contact__form-el--name" type="text" placeholder="Your Name" spellcheck="false" name="name" required="true">
+					<input class="contact__form-el contact__form-el--email" type="email" placeholder="Your Email" spellcheck="false" name="email" required="true">
+					<textarea class="contact__form-el contact__form-el--message" placeholder="Your Message" name="message" required="true"></textarea>
 					<input class="contact__form-el contact__form-el--submit" type="submit" value="Send">
 				</form>
 			</div>
@@ -202,8 +208,8 @@
 	<!-- SECTION: Footer -->
 	<footer class="footer">
 		<div class="footer__wrapper wrapper--large">
-			<p class="footer__copyright no-margin">&copy; 2016 James Martin</p>
-			<a class="footer__logo logo" href="#0">JM</a>
+			<p class="footer__copyright no-margin">&copy; 2023 Calvin Dass</p>
+			<a class="footer__logo logo" href="#0">CD</a>
 			<a class="footer__arrow" href="#top">
 				<svg class="footer__arrow-el" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0" y="0" viewBox="0 0 130 65" xml:space="preserve" enable-background="new 0 0 130 65"><g transform="translate(0.000000,65.000000) scale(0.100000,-0.100000)"><path d="M315.4 365c-336-305-345-315-290-351 18-12 32-14 45-8 10 5 145 123 300 262l281 253 196-178c108-98 237-215 287-260 50-46 98-83 107-83s27 9 40 19c20 16 22 23 14 46 -12 33-623 585-647 585C638.4 650 489.4 522 315.4 365z"/></g></svg>
 			</a>
