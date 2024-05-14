@@ -44,7 +44,6 @@ jobs:
           --build . \
           --sitename "Calvin Dass" \
           --index=index \
-          --custom_head=header.html \
           --sitemap.domain=www.calvindass.com \
           --og.domain=calvindass.com \
           --twitter.username=@calvindass \
