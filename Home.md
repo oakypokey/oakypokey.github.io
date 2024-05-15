@@ -4,6 +4,6 @@ I've always tried to find a nice way to show off who I am and the work that I do
 
 Here's some stuff I'd like you to see!
 
-## Projects
+# Projects
 - something will be here shortly. i've resolved to only put things here once I've actually finished it rather than just put placeholders
 - that makes it look like a graveyard
