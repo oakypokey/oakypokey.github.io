@@ -43,7 +43,7 @@ jobs:
           ../xlog \
           --build . \
           --sitename "Calvin Dass" \
-          --index=index \
+          --index=Home \
           --sitemap.domain=www.calvindass.com \
           --og.domain=calvindass.com \
           --twitter.username=@calvindass \
