@@ -1,0 +1,3 @@
+Workday Extend is this great platform that allows you build plugins/applications for the Workday HCM system. Workday Extend can integrate with all parts of the platform which means I get to play with all kinds of systems.
+
+Because of Workday Extend, I've had the opportunity to participate in two Workday Extend Hackathons (and have been lucky enough to win both). The first time, I brought my love for IoT and home automation to the table and created a Workday application that integrated with ESP32s to show how dense an area of an office space was (very on trend at the time as this was during COVID). The second time I won, we created an application that brought LLM capabilities to employee feedback and embeded it into the feedback functionality of Workday Core.
