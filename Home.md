@@ -1,9 +1,9 @@
 I've always tried to find a nice way to show off who I am and the work that I do. I've experimented with everything from Hugo, to a Wordpress blog, all the way back to Hugo and now finally xlog.
 
 # Key Links
-- [🏆 Credly]("https://www.credly.com/users/calvindass)
-- [💼 LinkedIn]("https://www.linkedin.com/in/calvindass")
-- [🏗️ GitHub]("https://github.com/oakypokey")
+- [🏆 Credly](https://www.credly.com/users/calvindass)
+- [💼 LinkedIn](https://www.linkedin.com/in/calvindass)
+- [🏗️ GitHub](https://github.com/oakypokey")
 
 
 ![Obligatory unsplash banner image of a beach](/public/beach.png)
