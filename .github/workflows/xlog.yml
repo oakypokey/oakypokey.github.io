@@ -46,7 +46,7 @@ jobs:
           --index=index \
           --sitemap.domain=www.calvindass.com \
           --og.domain=calvindass.com \
-          --custom_head=analytics.html
+          --custom_before_view=analytics.html
           rm *.md
           chmod -R 0777 .
 
