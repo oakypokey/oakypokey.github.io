@@ -43,10 +43,10 @@ jobs:
           ../xlog \
           --build . \
           --sitename "Calvin Dass" \
-          --index=Home \
+          --index=index \
           --sitemap.domain=www.calvindass.com \
           --og.domain=calvindass.com \
-          --twitter.username=@calvindass \
+          --custom_head=analytics.html
           rm *.md
           chmod -R 0777 .
 
