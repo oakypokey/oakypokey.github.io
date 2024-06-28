@@ -10,7 +10,7 @@ After success with the first two versions, I have come to realise that I haven't
 The repository is still private as I'm still trying to get to my true V1 but if you're interested in having a look-- let me know!
 
 # Current goals
-
+I want this to run and do the "splitting" in the background. I'm aiming to create a CLI tool that I can then run as a cron job on my home server. This will satisfy my most immediate need which is to not **think** about running the script anymore. (I know that I could do this with the current version of the script but I want to make sure that I am generating the right amount of logs in case anything goes wrong).
 
 # Previous goals
 
