@@ -7,9 +7,13 @@ Getting everything set up was pretty straightforward and I found StellarSan was 
 
 I'll update this page with changes as they happen! I'm excited to see fermentation finally start in a couple days.
 
-Here are some photos:
+# Photos:
+
 ![Santizing the carboys with the StellarSan](/public/photos/mixing-mead.jpeg)
+Santizing the carboys with the StellarSan
 
 ![Using 3 kilos of Honey that I found on sale at the local store](/public/photos/pouring-honey-mead.jpeg)
+Using 3 kilos of Honey that I found on sale at the local store
 
 ![Mixing the carboy so that everything was well distributed](/public/photos/mixing-mead.jpeg)
+Mixing the carboy so that everything was well distributed
