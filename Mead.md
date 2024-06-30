@@ -9,7 +9,7 @@ I'll update this page with changes as they happen! I'm excited to see fermentati
 
 # Photos:
 
-![Santizing the carboys with the StellarSan](/public/photos/mixing-mead.jpeg)
+![Santizing the carboys with the StellarSan](/public/photos/san-carboys-mead.jpeg)
 Santizing the carboys with the StellarSan
 
 ![Using 3 kilos of Honey that I found on sale at the local store](/public/photos/pouring-honey-mead.jpeg)
