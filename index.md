@@ -4,7 +4,7 @@ I've always tried to find a nice way to show off who I am and the work that I do
 # Key Links
 - [🏆 Credly](https://www.credly.com/users/calvindass)
 - [💼 LinkedIn](https://www.linkedin.com/in/calvindass)
-- [🏗️ GitHub](https://github.com/oakypokey")
+- [🏗️ GitHub](https://github.com/oakypokey)
 
 
 ![Obligatory unsplash banner image of a beach](/public/beach.png)
@@ -14,8 +14,8 @@ I've always tried to find a nice way to show off who I am and the work that I do
 - Mead
 
 # About me
-Currently, I work as a systems engineer within a HR function that supports over 48,900 employees. The platform I have the most experience with is Workday, specifically a product called Workday Extend.
+Currently, I work as a software engineer supporting a consent and preference service at Commonwealth Bank (however, all views on this site are my own). I'm a big Python fan and try to use it as much as I can. I'm also expanding my repertoire by making my way through the AWS certifications. I'm currently working towards my AWS Developer Associate.
 
-I'm expanding my repertoire though-- I'm making my way through the AWS certifications and recently got my AWS Cloud Practitioner and I'm working towards my AWS Developer Associate. I'm a big Python fan and try to use it as much as I can. I also enjoy writing Javascript on Node and have started exploring Rust (typical, I know).
+Previously, I worked a lot with Workday Extend developing plugins that supported the onboarding and remuneration process for employees. But now, I've been working at lot with .NET to create micro-services on AWS.
 
 I got into engineering and technology through Lego which then snowballed into a couple of small ventures from the end of highschool well through to the end of my university degree. Like most *technologists*, I experiment with a home server and obsess over home automation.
